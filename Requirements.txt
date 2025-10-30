@@ -1,0 +1,21 @@
+Zomato foods project
+
+By Jesus Acevedo Delatorre
+
+Tools: Tableau, Google sheets
+
+Objective: Sales analysis focused on cuisine type for advertisement purposes
+
+
+Data: Zomato data.zip containing 5 tables, 'food', 'menu', 'orders'. 'restaurant', 'users'.
+
+Link to Tableau workbook (includes 3 dashboards):
+
+
+https://public.tableau.com/views/Zomatodataproject1/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Link to Presentation in Google slides (includes presenter script):
+
+https://docs.google.com/presentation/d/1iSu-KW9kSnima-XI3_eEZ8kBrvBU7MtrvtW8n32ZzaA/edit?usp=sharing
+
+
